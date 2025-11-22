@@ -30,7 +30,7 @@
 
 ### 5. Экстремальные случаи (логарифмическая шкала)
 
-![Extreme Cases](extreme-cases-log.jpeg)
+![Extreme Cases](extreme-cases2.jpeg)
 
 ## Сравнительный анализ
 
