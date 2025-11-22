@@ -12,23 +12,7 @@
 |CPU|Ryzen 5 5500U|
 |RAM|16Gb|
 
-### 1. Маленькие массивы, разные k (n=500)
-
-![Small Arrays](small-arrays-different-k.jpeg)
-
-### 2. Средние массивы, маленькие k (n=1000)
-
-![Medium Arrays Small K](medium-arrays-small-k.jpeg)
-
-### 3. Средние массивы, большие k (n=5000)
-
-![Medium Arrays Big K](medium-arrays-big-k.jpeg)
-
-### 4. Большие массивы (n=10000-25000)
-
-![Large Arrays](large-arrays.jpeg)
-
-### 5. Экстремальные случаи (логарифмическая шкала)
+### Экстремальные случаи (логарифмическая шкала)
 
 ![Extreme Cases](extreme-cases2.jpeg)
 
