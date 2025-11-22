@@ -1,7 +1,7 @@
 # Sliding Window Median - Анализ производительности алгоритмов
 
 - Реализация алгоритма Numba Incremental: в [numba_incremental.py](numba_incremental.py)
-= Реализация алгоритма Two Heaps: в [two_heaps.py](two_heaps.py)
+- Реализация алгоритма Two Heaps: в [two_heaps.py](two_heaps.py)
 
 ## Результаты бенчмарков
 
